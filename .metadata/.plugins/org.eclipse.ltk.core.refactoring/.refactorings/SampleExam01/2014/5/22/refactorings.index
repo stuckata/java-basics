@@ -1,0 +1,6 @@
+1401024784166	Extract method 'printFrame'
+1401024831090	Extract method 'printGap'
+1401025081991	Rename local variable 'frameNum'
+1401025342254	Extract method 'printLenses'
+1401025598147	Extract method 'printBridge'
+1401026107439	Rename local variable 'bridgeNum'

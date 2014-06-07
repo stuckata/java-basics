@@ -1,0 +1,2 @@
+javac SumTwoNumbers.java - to compile the code
+java SumTwoNumbers - to run compiled program

@@ -1,0 +1,6 @@
+1400533753842	Extract method 'initStart'
+1400534254821	Delete element
+1400534313132	Delete elements
+1400621348156	Rename field 'crossings'
+1400621487721	Rename method 'collision'
+1400621524806	Rename method 'isCollisionAvailable'
