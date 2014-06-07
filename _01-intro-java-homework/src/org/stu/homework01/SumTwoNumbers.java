@@ -9,7 +9,7 @@ public class SumTwoNumbers {
 				.println("This program calculate the sum of two integer numbers.");
 		Scanner input = new Scanner(System.in);
 
-		System.out.println("Enter the two numbers:");
+		System.out.println("Enter the 2 numbers:");
 		System.out.print("a = ");
 
 		int numA = input.nextInt();
