@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;stu.org.javaexam.Largest3Rectangles&apos; to &apos;LargestThreeRectangles&apos;&#x0D;&#x0A;- Original project: &apos;JavaExam&apos;&#x0D;&#x0A;- Original element: &apos;stu.org.javaexam.Largest3Rectangles&apos;&#x0D;&#x0A;- Renamed element: &apos;stu.org.javaexam.LargestThreeRectangles&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Largest3Rectangles&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;stu.org.javaexam{Largest3Rectangles.java[Largest3Rectangles" matchStrategy="1" name="LargestThreeRectangles" qualified="false" references="true" similarDeclarations="false" stamp="1401117640573" textual="false" version="1.0"/>
-</session>
